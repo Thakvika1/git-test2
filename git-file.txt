@@ -1,0 +1,5 @@
+git add .
+git commit -m "........"
+git status (to check it has commited or not)
+git push (origin main)
+this up 4 key is to create new file in clone 
